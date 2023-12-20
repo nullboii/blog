@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "nullboi"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : ""
   links:
     - label: "Website"
