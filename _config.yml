@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "nullboi"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : ""
+  bio    : "I do things, and even sometimes blog about them"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
