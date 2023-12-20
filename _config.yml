@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "nullboi"
+  name   : "  nullboi"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "I do things, and even sometimes blog about them"
   links:
